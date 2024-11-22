@@ -3,11 +3,11 @@
   "version": "1.1.0",
   "private": true,
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Dhanush kiren",
+    "email": "dhanushrameshkvpt03@gmail.com",
+    "url": "https://github.com/dhanushkiren"
   },
-  "description": "Sanidhya is a full-stack developer with 4 years of experience.",
+  "description": "dhanush is a full-stack developer with 2 years of practical experience.",
   "keywords": [
     "reactjs",
     "nextjs",
@@ -29,16 +29,7 @@
     "html",
     "css"
   ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sanidhyy/portfolio.git"
-  },
-  "homepage": "https://github.com/sanidhyy/portfolio#readme",
-  "bugs": {
-    "url": "https://github.com/sanidhyy/portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
-  },
+ 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -74,15 +65,5 @@
   "devDependencies": {
     "@types/react-google-recaptcha": "^2.1.9",
     "@types/react-vertical-timeline-component": "^3.3.5"
-  },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ]
+  }
 }

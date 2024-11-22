@@ -96,31 +96,7 @@ NEXT_PUBLIC_GOOGLE_VERIFICATION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 **NOTE:** Ensure you don't share these keys publicly.
 
-## :camera: Screenshots:
-
-![Modern UI/UX using Tailwind CSS](/.github/images/img1.png "Modern UI/UX using Tailwind CSS")
-
-![Showcase Projects](/.github/images/img2.png "Showcase Projects")
-
-![Tell about your Experiences](/.github/images/img3.png "Tell about your Experiences")
-
-![Working Contact Form](/.github/images/img4.png "Working Contact Form")
-
 ## :gear: Tech Stack
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel")
-
-
-## :gem: Acknowledgements
-
-Useful resources and libraries that are used in My Portfolio
-
-- [Email JS](https://www.emailjs.com/ "Email JS")
-- [Framer Motion](https://www.framer.com/motion/ "Framer Motion")
-- [CLSX](https://www.npmjs.com/package/clsx "CLSX")
-- [React Icons](https://react-icons.github.io/react-icons/ "React Icons")
-- [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component "React Vertical Timeline Component")
-- [React Hot Toast](https://www.npmjs.com/package/react-hot-toast "React Hot Toast")
-- [React Intersection Observer](https://www.npmjs.com/package/react-intersection-observer "React Intersection Observer")
-- [Next PWA](https://www.npmjs.com/package/next-pwa "Next PWA")
 
