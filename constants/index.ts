@@ -42,9 +42,9 @@ export const LINKS = [
 
 // External links
 export const EXTRA_LINKS = {
-  linkedin: "www.linkedin.com/in/dhanushdk1",
+  linkedin: "https://www.linkedin.com/in/dhanushdk1/",
   github: "https://github.com/dhanushkiren",
-  resume: "/dk_resume.pdf",
+  resume: "/dk-resume.pdf",
   email: "dhanushrameshkvpt03@gmail.com",
 } as const;
 
@@ -94,7 +94,7 @@ export const PROJECTS_DATA = [
     title: "plant Disease Detection App",
     description:
       "A flutter based mobile Application used to detect the plant diseases using AI for image processing.",
-    tags: ["Flutter", "Python", "Fast-API", "APP","AI / ML"],
+    tags: ["Flutter", "Python", "Fast-API", "APP", "AI / ML"],
     imageUrl: plantImg,
     projectUrl:
       "https://github.com/dhanushkiren/AI-plant-disease-detection-app",
